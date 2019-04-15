@@ -49,6 +49,12 @@ brew search java
 
 ```
 
+## Install Docker
+```
+brew cask install docker
+open /Applications/Docker.app
+```
+
 ## Install JetBrains Applications
 ```
 brew cask install jetbrains-toolbox
