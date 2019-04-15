@@ -36,6 +36,19 @@ brew install node
 brew cask install google-chrome
 ```
 
+## Install Java Runtime
+```
+brew tap caskroom/versions
+brew cask install java8
+```
+
+To install a different version other then Java 8 you can view a list of version by running
+```
+brew tap caskroom/versions
+brew search java
+
+```
+
 ## Install JetBrains Applications
 ```
 brew cask install jetbrains-toolbox
