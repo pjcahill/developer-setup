@@ -55,6 +55,11 @@ brew cask install docker
 open /Applications/Docker.app
 ```
 
+## Install Atom
+```
+brew cask install atom
+```
+
 ## Install JetBrains Applications
 ```
 brew cask install jetbrains-toolbox
