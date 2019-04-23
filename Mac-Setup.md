@@ -49,6 +49,11 @@ brew search java
 
 ```
 
+## Install AWS CLI
+```
+brew install awscli
+```
+
 ## Install Docker
 ```
 brew cask install docker
